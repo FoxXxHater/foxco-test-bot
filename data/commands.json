@@ -1,0 +1,1 @@
+[null,{"name":"join","permissions":"NONE","restriction":"1","actions":[{"channel":"0","varName":"","message":"Willkommen ${member} im Clan","storage":"0","varName2":"","name":"Send Message"},{"member":"1","varName2":"","role":"0","varName":"","name":"Add Member Role"}]}]
